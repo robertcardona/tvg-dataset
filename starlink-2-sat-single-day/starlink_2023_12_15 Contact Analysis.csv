@@ -1,0 +1,10 @@
+starlink_2023_12_15 Contact Analysis.csv
+2023/12/12 01:41:00.0000 UTC
+
+Generated: Tue Dec 12 14:08:23 2023,
+Start: 2023/12/12 01:41:00.00, Stop: 2023/12/13 01:41:00.00,
+Analysis,Rise,Set,Duration,
+ID,SECONDS,SECONDS,SECONDS,
+STARLINK-2465 - STARLINK-3862,0.000,15837.099,15837.099,
+Analysis,Time True,Time False,Percent True,Interval Count,
+STARLINK-2465 - STARLINK-3862,15837.099,70562.901,18.3300%,1,
